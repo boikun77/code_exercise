@@ -32,4 +32,4 @@ function solution(numbers) {
   return parseInt(result);
 }
 
-//https://school.programmers.co.kr/learn/courses/30/lessons/120894 1차
+//https://school.programmers.co.kr/learn/courses/30/lessons/120894 1차..
