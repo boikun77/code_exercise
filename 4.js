@@ -1,0 +1,13 @@
+function solution(n) {
+  let factorial = 1;
+  let i = 1;
+
+  while (factorial <= n) {
+    i++;
+    factorial *= i;
+  }
+
+  return i - 1;
+}
+
+//https://school.programmers.co.kr/learn/courses/30/lessons/120848 1차
